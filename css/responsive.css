@@ -1,0 +1,544 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width:2880px)
+{
+	#singlebox h3
+	{
+		width:70%;
+		font-size:22px;
+	}
+}
+
+@media only screen and (max-width:1136px)
+{
+	div.globalwrapper
+	{
+		width:94%;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap
+	{
+		width:480px;
+		margin:15px;
+	}
+	
+	#thechar div.charlistwrap div.charbox
+	{
+		width:300px;
+	}
+	
+	#iconlist div.iconwrap
+	{
+		width:200px;
+	}
+}
+
+@media only screen and (max-width:1024px)
+{
+	#heading div.topbar div.logowrapper
+	{
+		width:49.6%;
+	}
+	
+	#heading div.topbar div.rightwrapper
+	{
+		width:49.6%;
+	}
+	
+	#heading div.videolistwrap div.videobox
+	{
+		width:540px;
+		height:310px;
+	}
+	
+	#heading div.videolistwrap div.listbox
+	{
+		width:360px;
+		margin-left:20px;
+	}
+	
+	#heading div.videolistwrap div.listbox div.listwrap
+	{
+		padding:15px 5px;
+	}
+	
+	#heading div.videolistwrap div.listbox div.listwrap img
+	{
+		width:26px;
+	}
+	
+	#heading div.videolistwrap div.listbox div.listwrap span
+	{
+		width:300px;
+		font-size:16px;
+	}
+	
+	#product div.productcontent div.productbox
+	{
+		margin:0px 50px;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap
+	{
+		width:420px;
+		margin:10px;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap div.videobox
+	{
+		height:260px;
+	}
+	
+	#thechar div.charlistwrap div.charbox
+	{
+		width:280px;
+	}
+	
+	#iconlist div.iconwrap
+	{
+		width:180px;
+	}
+	
+	#footer div.faqwrap
+	{
+		width:44%;
+	}
+	
+	#footer div.faqwrap div.linewrap div.textbox
+	{
+		width:85%;
+	}
+}
+
+@media only screen and (max-width:960px)
+{
+	#heading div.videolistwrap div.videobox
+	{
+		width:500px;
+		height:280px;
+	}
+	
+	#heading div.videolistwrap div.listbox
+	{
+		width:340px;
+		margin-left:10px;
+	}
+	
+	#heading div.videolistwrap div.listbox div.listwrap
+	{
+		padding:10px 5px;
+	}
+	
+	#heading div.videolistwrap div.listbox div.listwrap img
+	{
+		width:22px;
+	}
+	
+	#heading div.videolistwrap div.listbox div.listwrap span
+	{
+		width:280px;
+	}
+	
+	#product div.productcontent div.productbox
+	{
+		width:100%;
+		text-align:center;
+		margin:50px 0px;
+	}
+	
+	#product div.productcontent div.leftwrapper
+	{
+		width:100%;
+		text-align:left;
+		margin-right:0px;
+		margin-bottom:20px;
+	}
+	
+	#product div.productcontent div.rightwrapper
+	{
+		width:100%;
+		text-align:left;
+		margin-left:0px;
+	}
+		
+	#singlebox h3
+	{
+		font-size:18px;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap
+	{
+		width:400px;
+		margin:10px;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap div.videobox
+	{
+		height:220px;
+	}
+	
+	#iconlist div.iconwrap
+	{
+		margin:20px 10px;
+	}
+}
+
+@media only screen and (max-width:854px)
+{
+	#heading div.videolistwrap
+	{
+		margin:20px 0px;
+	}
+	
+	#heading div.videolistwrap div.videobox
+	{
+		width:86%;
+		height:320px;
+	}
+	
+	#heading div.videolistwrap div.listbox
+	{
+		width:88%;
+		margin-top:10px;
+		margin-left:0px;
+	}
+	
+	#heading div.videolistwrap div.listbox div.listwrap span
+	{
+		width:94%;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap
+	{
+		width:350px;
+		margin:10px;
+	}
+	
+	#iconlist div.iconwrap
+	{
+		width:300px;
+	}
+	
+	#footer div.faqwrap div.linewrap div.textbox
+	{
+		width:82%;
+	}
+}
+
+@media only screen and (max-width:800px)
+{
+	#singlebox h3
+	{
+		width:100%;
+		margin-bottom:20px;
+		text-align:center;
+	}
+	
+	#singlebox div.buttonwrap
+	{
+		width:100%;
+		text-align:center;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap
+	{
+		width:330px;
+		margin:10px;
+	}
+}
+
+@media only screen and (max-width:720px)
+{
+	
+	#heading div.contentone h1
+	{
+		font-size:48px;
+	}
+	
+	#heading div.contentone h2
+	{
+		font-size:28px;
+	}
+	
+	#heading div.contentone p
+	{
+		font-size:16px;
+	}
+	
+	#heading div.centralvideobox
+	{
+		width:94%;
+	}
+	
+	#heading div.videolistwrap div.videobox
+	{
+		height:300px;
+	}
+	
+	#heading div.videolistwrap div.listbox div.listwrap span
+	{
+		width:92%;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap
+	{
+		width:95%;
+		margin:15px 0px;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap div.videobox
+	{
+		height:340px;
+	}
+		
+	#footer div.faqwrap
+	{
+		width:100%;
+		margin:20px 0px;
+	}
+	
+	#footer div.faqwrap div.linewrap div.textbox
+	{
+		width:90%;
+	}
+	
+	#footer div.profile
+	{
+		width:100%;
+		margin:0px;
+	}
+}
+
+@media only screen and (max-width:640px)
+{
+	#heading div.centralvideobox
+	{
+		height:320px;
+	}
+	
+	#heading div.videolistwrap div.videobox
+	{
+		height:280px;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap div.videobox
+	{
+		height:300px;
+	}
+	
+	#thechar div.charlistwrap div.charbox
+	{
+		margin:20px 0px;
+	}
+	
+	#iconlist div.iconwrap
+	{
+		width:220px;
+	}
+}
+
+@media only screen and (max-width:540px)
+{
+	#heading div.topbar div.logowrapper
+	{
+		width:49.4%;
+	}
+	
+	#heading div.topbar div.rightwrapper
+	{
+		width:49.4%;
+	}
+	
+	#heading div.contentone h1
+	{
+		font-size:38px;
+	}
+	
+	#heading div.contentone h2
+	{
+		font-size:26px;
+	}
+	
+	#heading div.centralvideobox
+	{
+		height:280px;
+	}
+	
+	#heading div.videolistwrap div.videobox
+	{
+		height:240px;
+	}
+	
+	#heading div.videolistwrap div.listbox div.listwrap span
+	{
+		width:90%;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap div.videobox
+	{
+		height:260px;
+	}
+	
+	#footer div.faqwrap div.linewrap div.textbox
+	{
+		width:88%;
+	}
+}
+
+@media only screen and (max-width:480px)
+{
+	#heading div.centralvideobox
+	{
+		height:220px;
+	}
+	
+	#heading div.videolistwrap div.videobox
+	{
+		height:220px;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap div.videobox
+	{
+		height:240px;
+	}
+	
+	#iconlist div.iconwrap
+	{
+		width:180px;
+	}
+	
+	#footer div.faqwrap div.linewrap div.textbox
+	{
+		width:85%;
+	}
+}
+
+@media only screen and (max-width:460px)
+{
+	#heading div.videolistwrap div.videobox
+	{
+		height:200px;
+	}
+	
+	#heading div.videolistwrap div.listbox div.listwrap span
+	{
+		width:88%;
+		font-size:14px;
+	}
+	
+	#thepurchase div.buttonwrap a
+	{
+		width:100%;
+		padding:20px 0px;
+		text-align:center;
+	}
+}
+
+@media only screen and (max-width:424px)
+{
+	#heading div.centralvideobox
+	{
+		height:200px;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap div.videobox
+	{
+		height:220px;
+	}
+	
+	#iconlist div.iconwrap
+	{
+		width:100%;
+		margin:20px 0px;
+	}
+}
+
+@media only screen and (max-width:400px)
+{
+	#heading div.topbar div.logowrapper
+	{
+		width:100%;
+		padding:10px 0px;
+		text-align:center;
+	}
+	
+	#heading div.topbar div.rightwrapper
+	{
+		width:100%;
+		margin-top:20px;
+		text-align:center;
+	}
+	
+	#heading div.topbar div.rightwrapper a
+	{
+		width:99%;
+		padding:10px 0px;
+	}
+	
+	#heading div.centralvideobox
+	{
+		margin:20px 0px;
+	}
+	
+	#heading div.centralbuttonwrap
+	{
+		margin-bottom:20px;
+	}
+	
+	#heading div.centralbuttonwrap a
+	{
+		width:100%;
+	}
+	
+	#footer div.faqwrap div.linewrap div.textbox
+	{
+		width:82%;
+	}
+}
+
+@media only screen and (max-width:384px)
+{
+	#heading div.videolistwrap div.listbox div.listwrap span
+	{
+		width:86%;
+	}
+	
+	#heading div.videolistwrap div.videobox
+	{
+		height:160px;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap div.videobox
+	{
+		height:180px;
+	}
+}
+
+@media only screen and (max-width:360px)
+{
+	
+}
+
+@media only screen and (max-width:320px)
+{
+	#heading div.videolistwrap div.videobox
+	{
+		height:140px;
+	}
+	
+	#heading div.videolistwrap div.listbox div.listwrap span
+	{
+		width:84%;
+	}
+	
+	#thevideo div.videolistwrap div.videowrap div.videobox
+	{
+		height:140px;
+	}
+	
+	#footer div.faqwrap div.linewrap div.textbox
+	{
+		width:80%;
+	}
+}
